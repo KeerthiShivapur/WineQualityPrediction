@@ -17,4 +17,6 @@ A web application that predicts the quality of wine based on its chemical proper
 ## Installation ⚡
 
 - pip install -r requirements.txt
-- python app.py
+
+## Run
+-python app.py
